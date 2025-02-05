@@ -97,3 +97,4 @@ int32_t main() {
     }
     return 0;
 }
+// this template is ok for now .... in the future c++ updates more inbuilt functions may add up
