@@ -89,8 +89,7 @@ void run() {
 }
 
 int32_t main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+    cin.tie(nullptr)->sync_with_stdio(false);
     int t = 1;
     while (t--) {
         run();
